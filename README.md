@@ -1,21 +1,22 @@
-🧠 Applied Machine Learning Projects
+# 🧠 Applied Machine Learning Projects
 
 This repository contains projects and assignments completed for my Applied Machine Learning class. Each project involves exploring machine learning models on real-world datasets, including model selection, training, evaluation, and interpretation.
 
-📁 Project 1: Heart Disease Classification
+## 📁 Project 1: Heart Disease Classification
 
 Goal:
 Predict the presence of heart disease in patients using classification models applied to the UCI Heart Disease Dataset
 .
 
-🧪 Models Implemented
+### 🧪 Models Implemented
 
 Bernoulli Naive Bayes
 
 Gaussian Naive Bayes
 
 Linear Regression (used as a classifier)
-📊 Dataset
+
+### 📊 Dataset
 
 Source: UCI Machine Learning Repository
 
@@ -23,7 +24,7 @@ Features: 13 clinical attributes including age, sex, cholesterol levels, resting
 
 Target: Presence (1) or absence (0) of heart disease
 
-⚙️ Methods & Workflow
+### ⚙️ Methods & Workflow
 
 Preprocessing:
 
@@ -45,7 +46,7 @@ ROC/AUC curves
 
 Discussion on the comparative performance of each model
 
-📁 Files
+### 📁 Files
 
 heart_disease_classification.ipynb — Main notebook containing code, plots, and analysis.
 heart_disease_classification_report.pdf - Analytical insights and findings report
