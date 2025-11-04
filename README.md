@@ -48,6 +48,6 @@ Discussion on the comparative performance of each model
 
 ### 📁 Files
 
-heart_disease_classification.ipynb — Main notebook containing code, plots, and analysis.
-heart_disease_classification_report.pdf - Analytical insights and findings report
+heart_disease_classification_final.ipynb — Main notebook containing code, plots, and analysis.
+heart_disease_classification_report_final.pdf - Analytical insights and findings report
 README.md — This file.
