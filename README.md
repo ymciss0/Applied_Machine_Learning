@@ -104,11 +104,12 @@ Total parameters: 493,940
 
 Training:
 
-GridSearchCV-style hyperparameter exploration across 7 model versions
-Primary metric: Perplexity (lower is better)
-Secondary metrics: Accuracy, Loss
-Validation curves and attention matrix visualization
-Hardware: Tesla T4 GPU (~13 min average training time)
+GridSearchCV-style hyperparameter exploration across 7 model versions \n
+Primary metric: Perplexity (lower is better) \n
+Secondary metrics: Accuracy, Loss \n
+Validation curves and attention matrix visualization \n
+Hardware: Tesla T4 GPU (~13 min average training time) \n
+
 ### 📁 Files
 
 next_token_prediction.ipynb — Main notebook containing code, plots, and analysis
