@@ -40,7 +40,7 @@ Discussion on the comparative performance of each model
 ### 📁 Files
 
 heart_disease_classification_final.ipynb — Main notebook containing code, plots, and analysis.
-heart_disease_classification_report_final.pdf - Analytical insights and findings report
+heart_disease_classification_report.pdf - Analytical insights and findings report
 
 ## 📁 Project 2: Bank Marketing Campaign Classification
 
@@ -80,7 +80,7 @@ Discussion on the comparative performance of each model
 ### 📁 Files
 
 term_deposit_subscription_prediction.ipynb — Main notebook containing code, plots, and analysis
-term_deposit_subscription_prediction.pdf — Analytical insights and findings report
+term_deposit_subscription_prediction_report.pdf — Analytical insights and findings report
 
 ## 📁 Project 3: Tiny Transformer for Next Token Prediction
 Goal: Build and systematically evaluate a tiny transformer model for next token prediction on Shakespeare text, analyzing the impact of key hyperparameters on model performance.
@@ -113,6 +113,6 @@ Hardware: Tesla T4 GPU (~13 min average training time)
 ### 📁 Files
 
 next_token_prediction.ipynb — Main notebook containing code, plots, and analysis
-next_token_prediction.pdf — Analytical insights and findings report
+next_token_prediction_report.pdf — Analytical insights and findings report
 
 README.md — This file.
